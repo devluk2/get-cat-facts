@@ -1,0 +1,27 @@
+{
+  "name": "get-cat-facts",
+  "version": "1.0.0",
+  "description": "Module to get \"Cat facts' data (https://alexwohlbruck.github.io/cat-facts/docs/endpoints/facts.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devluk2/get-cat-facts.git"
+  },
+  "keywords": [
+    "cat",
+    "facts",
+    "module"
+  ],
+  "author": "Luk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devluk2/get-cat-facts/issues"
+  },
+  "homepage": "https://github.com/devluk2/get-cat-facts#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
