@@ -1,6 +1,6 @@
 {
   "name": "get-cat-facts",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Module to get \"Cat facts' data (https://alexwohlbruck.github.io/cat-facts/docs/endpoints/facts.html)",
   "main": "index.js",
   "scripts": {
