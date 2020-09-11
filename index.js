@@ -12,7 +12,7 @@ const get = async resource => {
 
   if (response.ok) {
     const data = await response.json()
-    return data
+    return Array.isArray(data) ? data : [data]
   } else {
     return response.status
   }
